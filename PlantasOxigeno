@@ -1,0 +1,145 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1284528,
+          -12.0486481,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Criogas SAC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1124784,
+          -12.0538035,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Concentrador de Oxígeno - Callao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1285768,
+          -12.0488181,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oxigeno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0880508,
+          -12.0494636,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Planta de oxigeno EUROKRAFT E.I.R.L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1243993,
+          -12.053165,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Criogas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0662666,
+          -12.048874,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oxinsa Gases S.A.C."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1111344,
+          -12.0483816,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Más"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0394921,
+          -12.0701285,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Oxitecni SAC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1106883,
+          -11.9950861,
+          0
+        ]
+      },
+      "properties": {
+        "name": "OXIGLOBAL - OXIGENO Y GASES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0135616,
+          -12.0578651,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Femesa Oxigeno Medicinal"
+      }
+    }
+  ]
+}
